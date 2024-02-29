@@ -15,7 +15,7 @@ const data = [
 ["Vikas", "63664907", "./SMI 10-20/Vikas/1.bmp", "./SMI 10-20/Vikas/2.bmp", "./SMI 10-20/Vikas/3.bmp", "./SMI 10-20/Vikas/4.bmp", "./SMI 10-20/Vikas/5.bmp"],
 ["Priya Maurya", "54387097", "./SMI 10-20/PriyaMaurya/1.bmp", "./SMI 10-20/PriyaMaurya/2.bmp", "./SMI 10-20/PriyaMaurya/3.bmp", "./SMI 10-20/PriyaMaurya/4.bmp", "./SMI 10-20/PriyaMaurya/5.bmp"],
 ["Itee Singh", "88885746", "./SMI 10-20/ITEESINGH/1.bmp", "./SMI 10-20/ITEESINGH/2.bmp", "./SMI 10-20/ITEESINGH/3.bmp", "./SMI 10-20/ITEESINGH/4.bmp", "./SMI 10-20/ITEESINGH/5.bmp"],
-["Pankaj Kumar", "00471133", "./SMI 10-20/**/1.bmp", "./SMI 10-20/**/2.bmp", "./SMI 10-20/**/3.bmp", "./SMI 10-20/**/4.bmp", "./SMI 10-20/**/5.bmp"],
+["Pankaj Kumar", "00471133", "./SMI 10-20/PankajKumar/1.bmp", "./SMI 10-20/PankajKumar/2.bmp", "./SMI 10-20/PankajKumar/3.bmp", "./SMI 10-20/PankajKumar/4.bmp", "./SMI 10-20/PankajKumar/5.bmp"],
 ["Sadhana Saroj", "70204567", "./SMI 10-20/SADHNASAROJ/1.bmp", "./SMI 10-20/SADHNASAROJ/2.bmp", "./SMI 10-20/SADHNASAROJ/3.bmp", "./SMI 10-20/SADHNASAROJ/4.bmp", "./SMI 10-20/SADHNASAROJ/5.bmp"],
 ["POOJA PANDEY", "64829767", "./SMI 10-20/POOJAPANDAY/1.bmp", "./SMI 10-20/POOJAPANDAY/2.bmp", "./SMI 10-20/POOJAPANDAY/3.bmp", "./SMI 10-20/POOJAPANDAY/4.bmp", "./SMI 10-20/POOJAPANDAY/5.bmp"],
 ["Khushi Kashyap", "99950887", "./SMI 10-20/KHUSHIKASHAP/1.bmp", "./SMI 10-20/KHUSHIKASHAP/2.bmp", "./SMI 10-20/KHUSHIKASHAP/3.bmp", "./SMI 10-20/KHUSHIKASHAP/4.bmp", "./SMI 10-20/KHUSHIKASHAP/5.bmp"],
