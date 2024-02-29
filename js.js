@@ -29,7 +29,8 @@ const data = [
 ["SACHINKUMAR105", "99662827", "./SMI 20-30/SACHINKUMAR105/1.bmp", "./SMI 20-30/SACHINKUMAR105/2.bmp", "./SMI 20-30/SACHINKUMAR105/3.bmp", "./SMI 20-30/SACHINKUMAR105/4.bmp","./SMI 20-30/SACHINKUMAR105/5.bmp"],
 ["SACHINKUMAR113", "88998283", "./SMI 20-30/SACHINKUMAR113/1.bmp", "./SMI 20-30/SACHINKUMAR113/2.bmp", "./SMI 20-30/SACHINKUMAR113/3.bmp", "./SMI 20-30/SACHINKUMAR113/4.bmp","./SMI 20-30/SACHINKUMAR113/5.bmp"],
 ["Suraj Saroj", "25054052", "./SMI 20-30/surajsaroj/1.bmp", "./SMI 20-30/surajsaroj/2.bmp", "./SMI 20-30/surajsaroj/3.bmp", "./SMI 20-30/surajsaroj/4.bmp","./SMI 20-30/surajsaroj/5.bmp"],
-["name", "pmkvy", "./SMI 20-30/fname/1.bmp", "./SMI 20-30/fname/2.bmp", "./SMI 20-30/fname/3.bmp", "./SMI 20-30/fname/4.bmp","./SMI 20-30/fname/5.bmp"],
+["Nikita Singh", "27314514", "./SMI 20-30/NikitaSingh/1.bmp", "./SMI 20-30/NikitaSingh/2.bmp", "./SMI 20-30/NikitaSingh/3.bmp", "./SMI 20-30/NikitaSingh/4.bmp","./SMI 20-30/NikitaSingh/5.bmp"],
+     ["Preeti Sharma", "TR 70592952", "./SMI 20-30/PreetiSharma/1.bmp", "./SMI 20-30/PreetiSharma/2.bmp", "./SMI 20-30/PreetiSharma/3.bmp", "./SMI 20-30/PreetiSharma/4.bmp","./SMI 20-30/PreetiSharma/5.bmp"],
     // 1-30 are done....
 // adding more rows..
 
