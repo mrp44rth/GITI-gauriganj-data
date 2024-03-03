@@ -61,7 +61,7 @@ function renderTable(data) {
         row.forEach((cell, index) => {
             const td = document.createElement('td');
 
-            if (index >= 2 && index <= 6) {
+            if (index >= 3 && index <= 7) {
                 const img = document.createElement('img');
                 img.src = cell;
                 img.alt = `Finger ${index - 1}`;
